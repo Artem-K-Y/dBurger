@@ -1,0 +1,13 @@
+@import url(./fonts.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+:root {
+    --RL: "Rubik-Light", sans-serif;
+    --RR: "Rubik-Regular", sans-serif;
+    --RS: "Rubik-SemiBold", sans-serif;
+}

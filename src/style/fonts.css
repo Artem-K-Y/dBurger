@@ -1,12 +1,15 @@
 @font-face {
-   font-family: "Rubik-Light";  
-   src: url("../assets/fonts/Rubik-Light.ttf");
+   font-family: 'SairaStencilOne';
+   src: url(../assets/fonts/SairaStencilOne-Regular.ttf);
+   font-weight: 400;
 }
 @font-face {
-   font-family: "Rubik-Regular";  
-   src: url("../assets/fonts/Rubik-Regular.ttf");
+   font-family: 'OpenSans';
+   src: url(../assets/fonts/OpenSans-Regular.ttf);
+   font-weight: 400;
 }
 @font-face {
-   font-family: "Rubik-SemiBold";  
-   src: url("../assets/fonts/Rubik-SemiBold.ttf");
+   font-family: 'OpenSans';
+   src: url(../assets/fonts/OpenSans-Bold.ttf);
+   font-weight: 700;
 }

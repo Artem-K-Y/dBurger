@@ -1,5 +1,3 @@
-// base obj
-
 const product = {
     crazy: {
         name: 'Crazy',

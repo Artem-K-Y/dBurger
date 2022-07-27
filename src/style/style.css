@@ -127,10 +127,10 @@ ol {
 }
 
 .wrapper__navbar-basket::before {
-    content: url(../images/arrow-basket.svg);
+    content: url(../assets/img/arrow.svg);
     position: absolute;
     right: 11px;
-    top: -17px;
+    top: -13px;
     z-index: -1;
 }
 
@@ -316,7 +316,6 @@ ol {
     position: absolute;
     top: -15px;
     right: -15px;
-    z-index: 5;
     width: 30px;
     height: 30px;
     background: var(--viollet);
@@ -331,6 +330,7 @@ ol {
     align-items: center;
     transition: 0.5s;
     opacity: 0;
+    z-index: 1;
 }
 
 .wrapper__list-count.active {
